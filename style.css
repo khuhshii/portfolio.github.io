@@ -170,7 +170,9 @@ footer p {
     /* color: #0b5d42; */
 }
 .about{
-    font-size: 63px;
+/*     font-size: 63px; */
+    padding-right: 0px;
+    font-size: 3.2rem;
     /* color: #fff; */
 }
 .more{
